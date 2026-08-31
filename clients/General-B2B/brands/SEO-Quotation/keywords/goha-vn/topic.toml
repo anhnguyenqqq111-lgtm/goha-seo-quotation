@@ -1,0 +1,19 @@
+schema_version = 1
+id = "General-B2B/SEO-Quotation/goha-vn"
+client = "General-B2B"
+brand = "SEO-Quotation"
+slug = "goha-vn"
+workflow = "standard"
+status = "backlog"
+updated_at = "2026-08-31"
+
+[artifacts]
+client_brief = "client-brief.md"
+technical_audit = "technical-audit.md"
+keyword_analysis = "keyword-analysis.md"
+competitor_benchmark = "competitor-benchmark.md"
+content_gap = "content-gap.md"
+backlink_analysis = "backlink-analysis.md"
+ux_signals = "ux-signals.md"
+seo_scorecard = "seo-scorecard.md"
+quotation_report = "seo-quotation-report.md"
